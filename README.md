@@ -9,8 +9,7 @@ Amacon Server is a backend server for the Amacon application, designed to handle
 ### Prerequisites
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (if applicable)
-- [Any other dependencies]
+- [Node.js](https://nodejs.org/)
 
 ### Installation
 
